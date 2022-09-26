@@ -1,4 +1,4 @@
-# OCT_Classification_ResNet
+# OCT-Classification-ResNet
 
 This project proposed a model which revolves around the
 quick analysis of macular Optical Coherence Tomography (OCT)
